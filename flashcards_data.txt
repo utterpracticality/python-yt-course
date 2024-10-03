@@ -1,0 +1,5 @@
+How many sides does a triangle have?:3
+What shape is the Earth?:Sphere
+What is the value of pi?:3.14
+What is larger, an elephant or a mouse?:Elephant
+What is the square root of 9?:3
